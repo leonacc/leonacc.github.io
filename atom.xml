@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Willkommen zu Leons Blog!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-15T10:18:25.000Z</updated>
+  <updated>2015-10-25T04:04:00.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[wöchentliche Zusammenfassung&Planung(151025)努力放下，静心学习，一个投行梦]]></title>
+    <link href="http://yoursite.com/2015/10/25/w%C3%B6chentliche%20Zusammenfassung&Planung(151025)%E5%8A%AA%E5%8A%9B%E6%94%BE%E4%B8%8B%EF%BC%8C%E9%9D%99%E5%BF%83%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%B8%80%E4%B8%AA%E6%8A%95%E8%A1%8C%E6%A2%A6/"/>
+    <id>http://yoursite.com/2015/10/25/wöchentliche Zusammenfassung&Planung(151025)努力放下，静心学习，一个投行梦/</id>
+    <published>2015-10-25T05:08:00.000Z</published>
+    <updated>2015-10-25T04:04:00.000Z</updated>
+    <content type="html"><![CDATA[<p>这次我又食言了，原来忘掉一个人是如此艰难。<br>上周考注会，难得有机会跟她单独相处了两天，之后突然就觉得，她对我已经没有初见面时的那种吸引了，就连敷衍都是这样的漫不经心。<br>注会的最后那门没考，回来还做最后的努力自作聪明地请人家一块去锻炼，去爬山，到底还是我一厢情愿罢了。<br>这周三，考完会从，不知道能不能过，听天由命吧。<br>这几天的生活也是够操蛋的，不提也罢。得不到的永远在骚动，还是会不自觉的犯贱去她的朋友圈看看，也还是会在某个闲暇的片刻上QQ看看她在不在线。<br>唉，几多相思几多情愁。<br>也许脱离朋友圈这个社交工具会帮助我更快地忘掉她吧。<br>不强求，不奢望。<br>明天开始不更新朋友圈了，慢慢也许能戒掉微信这个工具。<br>要让自己充实起来。有个计划，近期给自己写封信，嗯，好好谋划下。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这次我又食言了，原来忘掉一个人是如此艰难。<br>上周考注会，难得有机会跟她单独相处了两天，之后突然就觉得，她对我已经没有初见面时的那种吸引了，就连敷衍都是这样的漫不经心。<br>注会的最后那门没考，回来还做最后的努力自作聪明地请人家一块去锻炼，去爬山，到底还是我一厢情愿罢]]>
+    </summary>
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[wöchentliche Zusammenfassung&Planung(151015)努力忘记你，新的开始]]></title>
@@ -603,60 +623,6 @@
       <category term="计划总结" scheme="http://yoursite.com/tags/%E8%AE%A1%E5%88%92%E6%80%BB%E7%BB%93/"/>
     
       <category term="计划总结" scheme="http://yoursite.com/categories/%E8%AE%A1%E5%88%92%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[普通年金、先付年金的终现值]]></title>
-    <link href="http://yoursite.com/2015/07/20/%E6%99%AE%E9%80%9A%E5%B9%B4%E9%87%91%E3%80%81%E5%85%88%E4%BB%98%E5%B9%B4%E9%87%91%E7%9A%84%E7%BB%88%E7%8E%B0%E5%80%BC/"/>
-    <id>http://yoursite.com/2015/07/20/普通年金、先付年金的终现值/</id>
-    <published>2015-07-20T05:34:00.000Z</published>
-    <updated>2015-08-22T08:47:04.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://7xkhxz.com1.z0.glb.clouddn.com/4.png" alt=""></p>
-<blockquote>
-<p>今天开始学习注会财管科目，看到货币时间价值一节时突然有种茅塞顿开的感觉，原先准备研究生复试的时候用的张蕊老师那本《公司财务学》，看到这一节时就傻眼了，完全没能理解那个公式的来由，只能死记硬背，日久渐忘，今日重学本节，对于之前不能理解的部分突然又懂了些。</p>
-</blockquote>
-<h2 id="年金定义">年金定义</h2><figure class="highlight gcode"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">年金<span class="comment">(annuity)</span>：一定时期内每期间隔相同，金额相同的系列收付现金流</span><br><span class="line">普通年金<span class="comment">(ordinary annuity)</span>：每期末收付等额款项的年金，也称后付年金。</span><br><span class="line">即付年金<span class="comment">(prepaid annuity)</span>：每期期初获得收入的年金，也称先付年金。</span><br></pre></td></tr></table></figure>
-<h2 id="举个通俗的栗子：">举个通俗的栗子：</h2><p>所谓的普通年金，又称“后付年金”，它是指收付时点在每一期间期末的年金。比如，每年年末存入银行50 000元，2年年末全部提取本息。这里的50 000元，就是普通年金。假设利率为10%，单利计息，则到期可提取本金100 000元（50 000X2），可取得利息5 000元，具体计算如下：<br>第一个50 000元：<br>第一年利息 = 0（因是年末存入，当年无利息）<br>第二年利息 = 50 000X10% = 5 000元<br>第二个50 000元：<br>第一年利息 = 0（因当年并未存入，则当年无利息）<br>第二年利息 = 0（因是年末存入，当年无利息） </p>
-<p>而所谓的先付年金，又称“预付年金”。它是指收付时点在每一期间期初的年金。比如，每年年初存入银行50 000元，2年年末全部提取本息。这里的50 000元，就是先付年金。假设利率为10%，单利计息，则到期可提取本金100 000元（50 000X2），可取得利息15 000元，具体计算如下：<br>第一个50 000元：<br>第一年利息 = 50 000X10% = 5 000（因是年初存入，至年末产生一年的利息）<br>第二年利息 = 50 000X10% = 5 000元<br>第二个50 000元：<br>第一年利息 = 0（因当年并未存入，则当年无利息）<br>第二年利息 = 50 000X10% = 5 000元（因是年初存入，至年末产生一年的利息） </p>
-<p>由此可见，存入普通年金与存入先付年金的区别就在于“存入”年金的当年产生的利息不同，前者无而后者有。注意，为叙述便利，这里的年金存续期只有2年，同时按照单利计息而没有使用通常的复利计息。<br><a id="more"></a></p>
-<blockquote>
-<p>###如何理解年金终现值公式呢？</p>
-</blockquote>
-<p>普通年金终值现值自然不必多说，一般做题时都会给出数据，关键是先付年金终现值不好理解.</p>
-<h1 id="先说说先付年金终值：">先说说先付年金终值：</h1><p><img src="http://7xkhxz.com1.z0.glb.clouddn.com/先付终值.jpg" alt=""></p>
-<p>上图中可以看到，标号为1.2.3….N-1的现金流无论是计算终值还是折现其金额都是相等的（因为折算期数相同），而先付年金那根横轴可以看成是普通年金横轴反向延生了一期，如此普通年金跟先付年金现金流可以看成是等期等额计算终值，但是要注意的是由于先付年金第N期终值其实可以看成是N+1期普通年金第N期期末已付的金额，所以普通年金第N+1期金额A对于先付年金来说是不需支付的。</p>
-<h1 id="看完终值，现值便好理解了：">看完终值，现值便好理解了：</h1><p><img src="http://7xkhxz.com1.z0.glb.clouddn.com/先付现值.jpg" alt=""><br>上面已说到，标号为1.2.3….N-1期的现金流无论计算终值还是折现金额都相等（第N期先付年金可以看成是第N-1期普通年金折现），然后先付年金相较普通年金来说多折现了一期无需计息本金，因而减去即可。</p>
-<h1 id="这样理解下来公式似乎更好记一些了——">这样理解下来公式似乎更好记一些了——</h1><p><strong>先付年金终值</strong>：等于普通年金那根线多拉了一期算终值，但是多出来的第N+1期对于先付年金来说没有发生真实收付，应减去;<br><strong>先付年金现值</strong>：等于把N期普通年金最后一期（第N期）砍掉无需折现，但是要多交一期本金。</p>
-<ul>
-<li>再概而言之——</li>
-</ul>
-<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">先付终值：往后看，期数加一，序数减一</span><br><span class="line">先付现值：往前看，期数减一，序数加一</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>如下图<br><img src="http://7xkhxz.com1.z0.glb.clouddn.com/年金终现值.png" alt=""></p>
-</blockquote>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://7xkhxz.com1.z0.glb.clouddn.com/4.png" alt=""></p>
-<blockquote>
-<p>今天开始学习注会财管科目，看到货币时间价值一节时突然有种茅塞顿开的感觉，原先准备研究生复试的时候用的张蕊老师那本《公司财务学》，看到这一节时就傻眼了，完全没能理解那个公式的来由，只能死记硬背，日久渐忘，今日重学本节，对于之前不能理解的部分突然又懂了些。</p>
-</blockquote>
-<h2 id="年金定义">年金定义</h2><figure class="highlight gcode"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">年金<span class="comment">(annuity)</span>：一定时期内每期间隔相同，金额相同的系列收付现金流</span><br><span class="line">普通年金<span class="comment">(ordinary annuity)</span>：每期末收付等额款项的年金，也称后付年金。</span><br><span class="line">即付年金<span class="comment">(prepaid annuity)</span>：每期期初获得收入的年金，也称先付年金。</span><br></pre></td></tr></table></figure>
-<h2 id="举个通俗的栗子：">举个通俗的栗子：</h2><p>所谓的普通年金，又称“后付年金”，它是指收付时点在每一期间期末的年金。比如，每年年末存入银行50 000元，2年年末全部提取本息。这里的50 000元，就是普通年金。假设利率为10%，单利计息，则到期可提取本金100 000元（50 000X2），可取得利息5 000元，具体计算如下：<br>第一个50 000元：<br>第一年利息 = 0（因是年末存入，当年无利息）<br>第二年利息 = 50 000X10% = 5 000元<br>第二个50 000元：<br>第一年利息 = 0（因当年并未存入，则当年无利息）<br>第二年利息 = 0（因是年末存入，当年无利息） </p>
-<p>而所谓的先付年金，又称“预付年金”。它是指收付时点在每一期间期初的年金。比如，每年年初存入银行50 000元，2年年末全部提取本息。这里的50 000元，就是先付年金。假设利率为10%，单利计息，则到期可提取本金100 000元（50 000X2），可取得利息15 000元，具体计算如下：<br>第一个50 000元：<br>第一年利息 = 50 000X10% = 5 000（因是年初存入，至年末产生一年的利息）<br>第二年利息 = 50 000X10% = 5 000元<br>第二个50 000元：<br>第一年利息 = 0（因当年并未存入，则当年无利息）<br>第二年利息 = 50 000X10% = 5 000元（因是年初存入，至年末产生一年的利息） </p>
-<p>由此可见，存入普通年金与存入先付年金的区别就在于“存入”年金的当年产生的利息不同，前者无而后者有。注意，为叙述便利，这里的年金存续期只有2年，同时按照单利计息而没有使用通常的复利计息。<br>]]>
-    
-    </summary>
-    
-      <category term="CPA" scheme="http://yoursite.com/tags/CPA/"/>
-    
-      <category term="会计" scheme="http://yoursite.com/tags/%E4%BC%9A%E8%AE%A1/"/>
-    
-      <category term="年金" scheme="http://yoursite.com/tags/%E5%B9%B4%E9%87%91/"/>
-    
-      <category term="财管" scheme="http://yoursite.com/tags/%E8%B4%A2%E7%AE%A1/"/>
-    
-      <category term="会计学习" scheme="http://yoursite.com/categories/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
